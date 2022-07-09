@@ -1,0 +1,12 @@
+NodeJS is the environment  to run JS outside browser
+it's built on Chrome's V8 JS Engine
+its full stack
+
+Browser JS   vs     Node.js:
+DOM                 No DOM
+Window              No Window
+Interactive Apps    Server Side Apps
+No Filesystem       Filesystem
+Fragmentation       Versions
+ES6 Modules         CommonJS
+
